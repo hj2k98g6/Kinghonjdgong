@@ -1,0 +1,17 @@
+passive-income-platform/
+├── backend/
+│   ├── server.js
+│   ├── models/
+│   │   ├── User.js
+│   │   └── Product.js
+│   ├── routes/
+│   │   └── content.js
+│   └── .env
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── Dashboard.jsx
+│   │   └── index.js
+│   ├── package.json
+│   └── tailwind.config.js
+└── README.md
